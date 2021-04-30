@@ -17,8 +17,6 @@ body {
 
 .testimonial-items {
   padding: 10px;
-  /* margin: 20px; */
-  /* height: 45vh; */
   flex-direction: column;
   display: flex;
   justify-content: center;
